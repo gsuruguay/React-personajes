@@ -4,7 +4,7 @@
     right: 0;
     left: 0;
     z-index: 1030;
-    background-color: rgba(32, 211, 151);
+    background-color: #3894C3;
     padding: .6rem 1rem;
     width: 100%;
 }
@@ -28,11 +28,12 @@
     margin-right: 3.1rem;
 }
 .linksNav a:hover{
-    color: rgb(138, 43, 226); 
+    color: #ED303F; 
 }
 .nameEmpresa{
     display: flex;
     align-items: center;
     margin-right: auto;
+    color: #3c313d;
 }
 

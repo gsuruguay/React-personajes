@@ -11,7 +11,7 @@ class Navbar extends React.Component {
                         <span>REACT PERSONAJES</span>
                     </div>
                     <div className="linksNav">
-                        <a href="#a">Detail</a>
+                        <a href="#a">Character Detail</a>
                         <a href="#a">About</a>
                     </div>
                 </div>
