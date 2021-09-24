@@ -37,3 +37,20 @@
     color: #3c313d;
 }
 
+@media only screen and (max-width: 576px){
+    .navbar{
+        padding: 1rem .2rem;
+    }
+    .linksNav {
+        padding-right: .1rem;
+        padding-left: .2rem;
+        margin-right: .1rem;
+    }
+    .nav-container{
+        width: 100%;
+    }
+    .nameEmpresa {
+        margin-left: 10px;
+    }
+}
+
