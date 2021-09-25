@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    margin-right: 1.2rem;
+    margin-left: 1.2rem;
+}
+.cont-ImageDetail {
+    flex: 0 0 auto;
+    width: 40%;
+    max-width: 100%;
+    padding: .8rem;
+    box-sizing: border-box;
+}
+.cont-Detail {
+    flex: 0 0 auto;
+    width: 60%;
+    max-width: 100%;
+}
+h2{
+    color: rgb(52, 50, 97);
+}
+ul{
+    text-align: left;
+}
+

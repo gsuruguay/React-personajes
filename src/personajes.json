@@ -7,15 +7,15 @@
             "aliases": [
                 "Clark Joseph Kent",
                 "The Man of Steel",
-                "the Man of Tomorrow",
-                "the Last Son of Krypton",
+                "The Man of Tomorrow",
+                "The Last Son of Krypton",
                 "Big Blue",
-                "the Metropolis Marvel",
-                "the Action Ace"
+                "The Metropolis Marvel",
+                "The Action Ace"
             ],
             "occupation": "Reporter for the Daily Planet and novelist",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/791.jpg",
-            "group-affiliation": "Justice League of America, The Legion of Super-Heroes (pre-Crisis as Superboy); Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
+            "groupAffiliation": "Justice League of America, The Legion of Super-Heroes (pre-Crisis as Superboy); Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
             "relatives": [
                 "Lois Lane (wife)",
                 "Jor-El (father, deceased)",
@@ -43,7 +43,7 @@
             ],
             "occupation": "Inventor, Industrialist; former United States Secretary of Defense",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg",
-            "group-affiliation": "Avengers, Illuminati, Stark Resilient; formerly S.H.I.E.L.D., leader of Stark Enterprises, the Pro-Registration Superhero Unit, New Avengers, Mighty Avengers, Hellfire Club, Force occupations, Avengers West Coast, United States Department of Defense.",
+            "groupAffiliation": "Avengers, Illuminati, Stark Resilient; formerly S.H.I.E.L.D., leader of Stark Enterprises, the Pro-Registration Superhero Unit, New Avengers, Mighty Avengers, Hellfire Club, Force occupations, Avengers West Coast, United States Department of Defense.",
             "relatives": [
                 "Howard Anthony Stark (father, deceased)",
                 "Maria Stark (mother, deceased)",
@@ -67,7 +67,7 @@
             ],
             "occupation": "Nuclear physicist, Agent of S.H.I.E.L.D.",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg",
-            "group-affiliation": "Defenders, former leader of the new Hulkbusters, member of the Avengers, Pantheon, Titans Three, the Order, Hulkbusters of Counter-Earth-Franklin, alternate Fantastic Four",
+            "groupAffiliation": "Defenders, former leader of the new Hulkbusters, member of the Avengers, Pantheon, Titans Three, the Order, Hulkbusters of Counter-Earth-Franklin, alternate Fantastic Four",
             "relatives": [
                 "Betty Ross Talbot Banner (wife)",
                 "Brian Banner (father, apparently deceased)",
@@ -88,7 +88,7 @@
             ],
             "occupation": "Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg",
-            "group-affiliation": "Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)",
+            "groupAffiliation": "Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)",
             "relatives": [
                 "Joseph (father, deceased)",
                 "Sara (mother, deceased)",
@@ -105,7 +105,7 @@
             ],
             "occupation": "Businessman",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg",
-            "group-affiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
+            "groupAffiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
             "relatives": [
                 "Damian Wayne (son)",
                 "Dick Grayson (adopted son)",
@@ -133,7 +133,7 @@
             ],
             "occupation": "King of Asgard; formerly EMS Technician; Physician",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/140.jpg",
-            "group-affiliation": "Avengers",
+            "groupAffiliation": "Avengers",
             "relatives": [
                 "Odin (father)",
                 "Gaea (mother)",
@@ -166,7 +166,7 @@
             ],
             "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
             "photo": "https://www.superherodb.com/pictures2/portraits/10/100/807.jpg",
-            "group-affiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
+            "groupAffiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
             "relatives": [
                 "Queen Hippolyta (mother, deceased)",
                 "Donna Troy (Troia)"
