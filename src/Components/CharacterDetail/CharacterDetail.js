@@ -18,7 +18,7 @@ class CharacterDetail extends React.Component {
 
     render() {
         return (
-            <div>
+            <div className="divDetail">
                 <select onChange={(event) => this.onChangeSelect(event)} >
                     <option value="0" > Selecciona un personaje </option>
                     {personajes.Characters.map(personaje => {
@@ -31,13 +31,13 @@ class CharacterDetail extends React.Component {
                 </select>
                 <div>
                     {(this.state.selected == "" || this.state.selected == undefined) ?
-                        <h2>No has seleccionado ningun personaje</h2>
+                        <h2>No has seleccionado ningún personaje</h2>
                         : <div className="row">
                             <div className="cont-ImageDetail">
                                 <img src={this.state.selected.photo} alt={`Imagen de ${this.state.selected.name}`} />
                             </div>
                             <div className="cont-Detail">
-                                <h2>{this.state.selected.name}</h2>
+                                <h1>{this.state.selected.name}</h1>
                                 <h4>{`Fullname: ${this.state.selected.fullname}`}</h4>
                                 <p><strong>Occupation:</strong> {this.state.selected.occupation}</p>
                                 <p><strong>Group affiliation:</strong> {this.state.selected.groupAffiliation}</p>

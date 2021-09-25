@@ -1,3 +1,7 @@
+.divDetail{
+    text-align: center;
+    margin-top: 3rem;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -17,10 +21,28 @@
     width: 60%;
     max-width: 100%;
 }
+.cont-Detail p{
+    text-align: left;
+}
+strong{
+    color: #35505E;
+}
 h2{
-    color: rgb(52, 50, 97);
+    color: #ED303F;
 }
 ul{
     text-align: left;
+}
+select{
+    padding: 5px 8px;
+    border: 3px solid #312F59;
+    
+}
+select:focus {
+    border-color: #aaa;
+    box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+    box-shadow: 0 0 0 3px -moz-mac-focusring;
+    color: #222; 
+    outline: none;
 }
 
