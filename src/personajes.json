@@ -171,6 +171,76 @@
                 "Queen Hippolyta (mother, deceased)",
                 "Donna Troy (Troia)"
             ]
+        },
+        {
+            "id": 8,
+            "name": "Thanos",
+            "fullname": "Thanos",
+            "aliases": [
+                "The Mad Titan",
+                "Masterlord",
+                "The Overmaster",
+                "Chins"
+            ],
+            "occupation": "Conqueror, worshiper of Death",
+            "photo": "https://www.superherodb.com/pictures2/portraits/10/100/1305.jpg",
+            "groupAffiliation": "Zodiac (ally); formerly Infinity Watch, Defenders",
+            "relatives": [
+                "A'Lars (father)",
+                "Sui-San (mother, deceased; Eros (brother)",
+                "Kronos (paternal Grandfather, deceased)",
+                "Daina (paternal grandmother, deceased)",
+                "Zuras (uncle, deceased)",
+                "Thena (cousin)",
+                "Gamora (foster daughter)",
+                "Nebula (alleged granddaughter)",
+                "Rot (child by Death)"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Robin",
+            "fullname": "Dick Grayson",
+            "aliases": [
+                "Renegade",
+                "The Target",
+                "Freddie Dinardo"
+            ],
+            "occupation": "High School Student",
+            "photo": "https://www.superherodb.com/pictures2/portraits/10/100/850.jpg",
+            "groupAffiliation": "Batman Family, Batman Incorporated, Justice League; formerly Teen Titans, Outsiders, Bludhaven Police Department, Secret Society of Super-Villains",
+            "relatives": [
+                "John Grayson (father)",
+                "Mary Grayson (mother)",
+                "Bruce Wayne (adoptive father)",
+                "Damian Wayne (adoptive brother)",
+                "Jason Todd (adoptive brother)",
+                "Tim Drake (adoptive brother)",
+                "Cassandra Cain (adoptive sister)"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Flash",
+            "fullname": "Barry Allen",
+            "aliases": [
+                "The Scarlet Speedster",
+                "the Fastest Man Alive",
+                "the Monarch of Motion",
+                "the Sultan of Speed"
+            ],
+            "occupation": "Forensic Scientist",
+            "photo": "https://www.superherodb.com/pictures2/portraits/10/100/892.jpg",
+            "groupAffiliation": "Flash Family, Justice League of America; formerly Blue Lantern Corps",
+            "relatives": [
+                "Henry and Nora (parents)",
+                "Malcolm Thawne (twin)",
+                "Iris West Allen (wife)",
+                "Wally West (Flash III, nephew)",
+                "Don and Dawn Allen (son and daughter)",
+                "Bart Allen (Flash IV, grandson)",
+                "Jenni Ognats (granddaughter)"
+            ]
         }
     ]
 }
