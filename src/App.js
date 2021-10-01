@@ -1,4 +1,5 @@
-import React, {useState} from "react";
+import React, { useState, useEffect } from "react";
+import { Switch, Route } from 'react-router-dom';
 import Navbar from "./Components/NavBar/Navbar";
 import Home from "./Components/Home/Home";
 import personajes from "./personajes.json";
@@ -6,17 +7,32 @@ import CharacterDetail from "./Components/CharacterDetail/CharacterDetail";
 import About from "./Components/About/About";
 
 export default function App() {
-  const [characters, setCharacters]= useState(personajes.Characters);
-  
+  const [charactersInfo, setCharacters] = useState([]);
+
+  //COMPONENT DID MOUNT    
+  useEffect(() => {
+    setCharacters(personajes.Characters)
+  }, [])
 
   return (
-      <div>
-        <Navbar />
-        <Home characters={characters}/>
-        <CharacterDetail />
-        <About />
-      </div>
-    );
+    <div>
+      <Navbar />
+
+      <Switch>
+
+        <Route exact path="/">
+          <Home characters={charactersInfo} />
+        </Route>
+        <Route exact path="/charDetail">
+          <CharacterDetail />
+        </Route>
+        <Route exact path="/about">
+          <About />
+        </Route>
+
+      </Switch>
+    </div>
+  );
 }
 
 
