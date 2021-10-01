@@ -1,11 +1,38 @@
+.divAbout{
+    text-align: center;
+    margin-top: 3rem;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    margin-right: 1.2rem;
+    margin-left: 1.2rem;
+}
+.cont-Dev {
+    flex: 0 0 auto;
+    width: 50%;
+    max-width: 100%;
+    padding: .8rem;
+    box-sizing: border-box;
+}
+.img-Dev{
+    width: 30%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.icono img{
+    width: 10%;
+}
 footer{
     bottom: 0;
     right: 0;
     left: 0;
     background-color: #3894C3;
     padding: .6rem 1rem;
-    width: 100%;
     text-align: center;
+    position: absolute;
 }
 a{
     text-decoration: none;
