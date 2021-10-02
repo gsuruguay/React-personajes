@@ -4,6 +4,7 @@ import Navbar from "./Components/NavBar/Navbar";
 import Home from "./Components/Home/Home";
 import personajes from "./personajes.json";
 import CharacterDetail from "./Components/CharacterDetail/CharacterDetail";
+import CharacterParams from "./Components/CharacterDetail/CharacterParams";
 import About from "./Components/About/About";
 
 export default function App() {
@@ -25,6 +26,9 @@ export default function App() {
         </Route>
         <Route exact path="/charDetail">
           <CharacterDetail />
+        </Route>
+        <Route exact path="/charDetail/:id">
+          <CharacterParams />
         </Route>
         <Route exact path="/about">
           <About />
