@@ -44,3 +44,9 @@ footer a{
 footer a:hover{
     color: #ED303F; 
 }
+@media only screen and (max-width: 768px){
+    .img-Dev{
+        left: -10px;
+    }
+
+}

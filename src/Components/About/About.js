@@ -64,7 +64,7 @@ export default function About() {
                         <img src="https://i.postimg.cc/FHVH7Zfn/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud-78285.png" alt="icono" />
                     </Col>
                     <Col>
-                        <p>Soy una persona con más de +5 años de experiencia liderando equipos de trabajo y +5 años de experiencia en atención al cliente y ventas, con enfoque siempre en el logro de objetivos. Busco insertarme en una empresa del sector IT como Programador Web Jr. donde pueda desarrollarme y aportar mis conocimientos, aptitudes comunicativas y de trabajo en equipo. Soy autodidacta, con fuerte capacidad de aprendizaje, entusiasmo y planificación.
+                        <p>Soy una persona con más de +5 años de experiencia liderando equipos de trabajo en atención al cliente y ventas, con enfoque siempre en el logro de objetivos. Busco insertarme en una empresa del sector IT como Programador Web Jr. donde pueda desarrollarme y aportar mis conocimientos, aptitudes comunicativas y de trabajo en equipo. Soy autodidacta, con fuerte capacidad de aprendizaje, entusiasmo y planificación.
                         </p>
                     </Col>
                 </Row>

@@ -39,18 +39,19 @@
 
 @media only screen and (max-width: 576px){
     .navbar{
-        padding: 1rem .2rem;
+        padding: 1rem .2rem!important;
     }
     .linksNav {
-        padding-right: .1rem;
-        padding-left: .2rem;
-        margin-right: .1rem;
+        padding-left: .6rem!important;
     }
     .nav-container{
-        width: 100%;
+        width: 100%!important;
     }
     .nameEmpresa {
-        margin-left: 10px;
+        margin-left: 10px!important;
+    }
+    .linksNav{
+        margin-top: 1rem;
     }
 }
 

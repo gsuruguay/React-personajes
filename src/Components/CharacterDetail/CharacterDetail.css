@@ -11,15 +11,16 @@
 }
 .cont-ImageDetail {
     flex: 0 0 auto;
-    width: 40%;
+    width: 40%!important;
     max-width: 100%;
     padding: .8rem;
     box-sizing: border-box;
 }
 .cont-Detail {
     flex: 0 0 auto;
-    width: 60%;
+    width: 60%!important;
     max-width: 100%;
+    padding-left: 100px!important;
 }
 .cont-Detail button{
     margin-bottom: 1rem;
@@ -56,3 +57,16 @@ select:focus {
     outline: none;
 }
 
+@media only screen and (max-width: 768px){
+    .cont-ImageDetail {
+        width: 90%!important;
+    }
+    .cont-Detail {
+        width: 90%!important;
+    }
+    .cont-ImageDetail img{
+        width: 100%!important;
+        margin-left: 30px;
+    }
+
+}

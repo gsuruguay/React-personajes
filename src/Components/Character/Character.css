@@ -1,6 +1,6 @@
 .cont-card {
     flex: 0 0 auto;
-    width: 33.33%;
+    width: 33.33%!important;
     max-width: 100%;
     margin-bottom: 3rem;
 }
@@ -60,15 +60,15 @@ h1{
 
 @media only screen and (max-width: 768px){
     .card{
-        width: 90%;
-        position: relative;
-        display: flex;
-        justify-content: space-around;
-        flex-direction: column;
-        height: max-content;
+        width: 100%!important;
+        position: relative!important;
+        display: flex!important;
+        justify-content: space-around!important;
+        flex-direction: column!important;
+        height: max-content!important;
     }
     .cont-card {
-        width: 100%;
+        width: 100%!important;
     }
 
 }
